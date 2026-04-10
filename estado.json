@@ -1,0 +1,30 @@
+{
+  "hash": "968c184e29dde4f94d67b6a80e502547f604a5ca643ae15999e6e76705e776db",
+  "movimientos": [
+    {
+      "fecha": "10-04-2026 16:20",
+      "planta": "RAGAZZI LUCIANO",
+      "historia": "EN PROCESO DE CLASIFICACI\u00d3N",
+      "estado": ""
+    },
+    {
+      "fecha": "10-04-2026 16:04",
+      "planta": "RAGAZZI LUCIANO",
+      "historia": "INGRESO AL CORREO",
+      "estado": ""
+    },
+    {
+      "fecha": "10-04-2026 16:04",
+      "planta": "RAGAZZI LUCIANO",
+      "historia": "REPESAJE",
+      "estado": ""
+    },
+    {
+      "fecha": "09-04-2026 14:32",
+      "planta": "CORREO ARGENTINO",
+      "historia": "PREIMPOSICION",
+      "estado": ""
+    }
+  ],
+  "fecha": "2026-04-10T22:24:43.231997"
+}
