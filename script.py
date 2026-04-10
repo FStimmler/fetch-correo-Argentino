@@ -7,8 +7,8 @@ from datetime import datetime
 
 # CONFIG
 URL = "https://www.correoargentino.com.ar/sites/all/modules/custom/ca_forms/api/wsFacade.php"
-TRACKING_ID = "000136841967E8PE23IC101"
-WEBHOOK_URL = "https://chat.googleapis.com/v1/spaces/AAQANG9zM7c/messages?key=AIzaSyDdI0hCZtE6vySjMm-WEfRq3CPzqKqqsHI&token=reQlEzH4hYqhxLKOyzbeNx1rcmvP6EBIFaavGz82d-U"
+TRACKING_ID = os.getenv("TRACKING_ID")
+WEBHOOK_URL = os.getenv("WEBHOOK_URL")
 STATE_FILE = "estado.json"
 
 HEADERS = {
