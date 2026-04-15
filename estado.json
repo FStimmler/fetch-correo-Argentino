@@ -1,6 +1,12 @@
 {
-  "hash": "e987726b885bb6925470997a90054e354ade8ea4a42b70714aa2c990e66da425",
+  "hash": "e830b557370008250214400f7a20e4975fe0d17316fc67751a074d0fa4a03fd1",
   "movimientos": [
+    {
+      "fecha": "15-04-2026 13:18",
+      "planta": "CLOG MAR DEL PLATA",
+      "historia": "INTENTO DE ENTREGA",
+      "estado": "ENTREGADO"
+    },
     {
       "fecha": "15-04-2026 08:44",
       "planta": "CLOG MAR DEL PLATA",
@@ -50,5 +56,5 @@
       "estado": ""
     }
   ],
-  "fecha": "2026-04-15T14:45:49.619188"
+  "fecha": "2026-04-15T18:05:37.272851"
 }
