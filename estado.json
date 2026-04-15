@@ -1,6 +1,12 @@
 {
-  "hash": "4109a5f9dbe791728ae321f2aea7affd3077cb505a4342f5eeea75404e026c79",
+  "hash": "e987726b885bb6925470997a90054e354ade8ea4a42b70714aa2c990e66da425",
   "movimientos": [
+    {
+      "fecha": "15-04-2026 08:44",
+      "planta": "CLOG MAR DEL PLATA",
+      "historia": "EN PODER DEL DISTRIBUIDOR",
+      "estado": ""
+    },
     {
       "fecha": "14-04-2026 14:15",
       "planta": "CTP MAR DEL PLATA",
@@ -44,5 +50,5 @@
       "estado": ""
     }
   ],
-  "fecha": "2026-04-15T05:25:07.213431"
+  "fecha": "2026-04-15T14:45:49.619188"
 }
