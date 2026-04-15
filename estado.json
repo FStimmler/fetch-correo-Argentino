@@ -1,5 +1,5 @@
 {
-  "hash": "c43dd4e6065bb505634b1c3306ea92c1b2fa15465273d2231ec27e918c44acc2",
+  "hash": "4109a5f9dbe791728ae321f2aea7affd3077cb505a4342f5eeea75404e026c79",
   "movimientos": [
     {
       "fecha": "14-04-2026 14:15",
@@ -11,6 +11,12 @@
       "fecha": "14-04-2026 02:28",
       "planta": "CTP BUENOS AIRES",
       "historia": "EN PROCESO DE CLASIFICACI\u00d3N",
+      "estado": ""
+    },
+    {
+      "fecha": "14-04-2026 02:18",
+      "planta": "CTP BUENOS AIRES",
+      "historia": "LLEGADA AL CENTRO DE PROCESAMIENTO",
       "estado": ""
     },
     {
@@ -38,5 +44,5 @@
       "estado": ""
     }
   ],
-  "fecha": "2026-04-14T20:55:24.783080"
+  "fecha": "2026-04-15T05:25:07.213431"
 }
